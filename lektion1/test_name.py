@@ -1,0 +1,5 @@
+print("Vad heter du?")
+name = input()
+print("Hur gammal är du?")
+age = input()
+print(f"Hej {name}, du är {age} år gammal!")
